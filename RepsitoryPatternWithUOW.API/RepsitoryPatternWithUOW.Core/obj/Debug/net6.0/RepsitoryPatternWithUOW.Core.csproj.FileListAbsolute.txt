@@ -1,0 +1,12 @@
+C:\Users\Nabilo\source\repos\RepsitoryPatternWithUOW.API\RepsitoryPatternWithUOW.Core\bin\Debug\net6.0\RepsitoryPatternWithUOW.Core.deps.json
+C:\Users\Nabilo\source\repos\RepsitoryPatternWithUOW.API\RepsitoryPatternWithUOW.Core\bin\Debug\net6.0\RepsitoryPatternWithUOW.Core.dll
+C:\Users\Nabilo\source\repos\RepsitoryPatternWithUOW.API\RepsitoryPatternWithUOW.Core\bin\Debug\net6.0\RepsitoryPatternWithUOW.Core.pdb
+C:\Users\Nabilo\source\repos\RepsitoryPatternWithUOW.API\RepsitoryPatternWithUOW.Core\obj\Debug\net6.0\RepsitoryPatternWithUOW.Core.csproj.AssemblyReference.cache
+C:\Users\Nabilo\source\repos\RepsitoryPatternWithUOW.API\RepsitoryPatternWithUOW.Core\obj\Debug\net6.0\RepsitoryPatternWithUOW.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nabilo\source\repos\RepsitoryPatternWithUOW.API\RepsitoryPatternWithUOW.Core\obj\Debug\net6.0\RepsitoryPatternWithUOW.Core.AssemblyInfoInputs.cache
+C:\Users\Nabilo\source\repos\RepsitoryPatternWithUOW.API\RepsitoryPatternWithUOW.Core\obj\Debug\net6.0\RepsitoryPatternWithUOW.Core.AssemblyInfo.cs
+C:\Users\Nabilo\source\repos\RepsitoryPatternWithUOW.API\RepsitoryPatternWithUOW.Core\obj\Debug\net6.0\RepsitoryPatternWithUOW.Core.csproj.CoreCompileInputs.cache
+C:\Users\Nabilo\source\repos\RepsitoryPatternWithUOW.API\RepsitoryPatternWithUOW.Core\obj\Debug\net6.0\RepsitoryPatternWithUOW.Core.dll
+C:\Users\Nabilo\source\repos\RepsitoryPatternWithUOW.API\RepsitoryPatternWithUOW.Core\obj\Debug\net6.0\refint\RepsitoryPatternWithUOW.Core.dll
+C:\Users\Nabilo\source\repos\RepsitoryPatternWithUOW.API\RepsitoryPatternWithUOW.Core\obj\Debug\net6.0\RepsitoryPatternWithUOW.Core.pdb
+C:\Users\Nabilo\source\repos\RepsitoryPatternWithUOW.API\RepsitoryPatternWithUOW.Core\obj\Debug\net6.0\ref\RepsitoryPatternWithUOW.Core.dll
