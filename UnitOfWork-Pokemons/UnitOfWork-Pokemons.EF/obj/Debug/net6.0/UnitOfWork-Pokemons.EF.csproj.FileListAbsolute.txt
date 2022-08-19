@@ -1,0 +1,17 @@
+C:\Users\Nabilo\source\repos\UnitOfWork-Pokemons\UnitOfWork-Pokemons.EF\bin\Debug\net6.0\UnitOfWork-Pokemons.EF.deps.json
+C:\Users\Nabilo\source\repos\UnitOfWork-Pokemons\UnitOfWork-Pokemons.EF\bin\Debug\net6.0\UnitOfWork-Pokemons.EF.runtimeconfig.json
+C:\Users\Nabilo\source\repos\UnitOfWork-Pokemons\UnitOfWork-Pokemons.EF\bin\Debug\net6.0\UnitOfWork-Pokemons.EF.dll
+C:\Users\Nabilo\source\repos\UnitOfWork-Pokemons\UnitOfWork-Pokemons.EF\bin\Debug\net6.0\UnitOfWork-Pokemons.EF.pdb
+C:\Users\Nabilo\source\repos\UnitOfWork-Pokemons\UnitOfWork-Pokemons.EF\obj\Debug\net6.0\UnitOfWork-Pokemons.EF.csproj.AssemblyReference.cache
+C:\Users\Nabilo\source\repos\UnitOfWork-Pokemons\UnitOfWork-Pokemons.EF\obj\Debug\net6.0\UnitOfWork-Pokemons.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nabilo\source\repos\UnitOfWork-Pokemons\UnitOfWork-Pokemons.EF\obj\Debug\net6.0\UnitOfWork-Pokemons.EF.AssemblyInfoInputs.cache
+C:\Users\Nabilo\source\repos\UnitOfWork-Pokemons\UnitOfWork-Pokemons.EF\obj\Debug\net6.0\UnitOfWork-Pokemons.EF.AssemblyInfo.cs
+C:\Users\Nabilo\source\repos\UnitOfWork-Pokemons\UnitOfWork-Pokemons.EF\obj\Debug\net6.0\UnitOfWork-Pokemons.EF.csproj.CoreCompileInputs.cache
+C:\Users\Nabilo\source\repos\UnitOfWork-Pokemons\UnitOfWork-Pokemons.EF\obj\Debug\net6.0\UnitOfWork-Pokemons.EF.dll
+C:\Users\Nabilo\source\repos\UnitOfWork-Pokemons\UnitOfWork-Pokemons.EF\obj\Debug\net6.0\refint\UnitOfWork-Pokemons.EF.dll
+C:\Users\Nabilo\source\repos\UnitOfWork-Pokemons\UnitOfWork-Pokemons.EF\obj\Debug\net6.0\UnitOfWork-Pokemons.EF.pdb
+C:\Users\Nabilo\source\repos\UnitOfWork-Pokemons\UnitOfWork-Pokemons.EF\obj\Debug\net6.0\UnitOfWork-Pokemons.EF.genruntimeconfig.cache
+C:\Users\Nabilo\source\repos\UnitOfWork-Pokemons\UnitOfWork-Pokemons.EF\obj\Debug\net6.0\ref\UnitOfWork-Pokemons.EF.dll
+C:\Users\Nabilo\source\repos\UnitOfWork-Pokemons\UnitOfWork-Pokemons.EF\bin\Debug\net6.0\UnitOfWork-Pokemons.Core.dll
+C:\Users\Nabilo\source\repos\UnitOfWork-Pokemons\UnitOfWork-Pokemons.EF\bin\Debug\net6.0\UnitOfWork-Pokemons.Core.pdb
+C:\Users\Nabilo\source\repos\UnitOfWork-Pokemons\UnitOfWork-Pokemons.EF\obj\Debug\net6.0\UnitOfWork-Pokemons.EF.csproj.CopyComplete
