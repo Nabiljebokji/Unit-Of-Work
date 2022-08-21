@@ -14,8 +14,6 @@ namespace UnitOfWork_Pokemons.Controllers
     [ApiController]
     public class CountryController : ControllerBase
     {
-        private readonly IUnitOfWork _unitOfWork;
-        private readonly IMapper _mapper;
         private readonly IMediator _mediator;
 
         public CountryController(IMediator mediator)

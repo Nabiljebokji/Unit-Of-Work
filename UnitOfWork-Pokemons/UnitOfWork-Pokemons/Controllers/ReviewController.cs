@@ -14,8 +14,6 @@ namespace UnitOfWork_Pokemons.Controllers
     [ApiController]
     public class ReviewController : ControllerBase {
         private readonly IMediator _mediator;
-        private readonly IUnitOfWork _unitOfWork;
-    private readonly IMapper _mapper;
 
     public ReviewController(IMediator mediator)
     {
