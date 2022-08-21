@@ -18,10 +18,8 @@ namespace UnitOfWork_Pokemons.Controllers
         private readonly IMapper _mapper;
         private readonly IMediator _mediator;
 
-        public CountryController(IUnitOfWork unitOfWork, IMapper mapper,IMediator mediator)
+        public CountryController(IMediator mediator)
         {
-            _unitOfWork = unitOfWork;
-            _mapper = mapper;
             _mediator = mediator;
         }
         [HttpGet]

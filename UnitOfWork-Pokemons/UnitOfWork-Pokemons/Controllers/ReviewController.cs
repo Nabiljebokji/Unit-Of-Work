@@ -17,11 +17,9 @@ namespace UnitOfWork_Pokemons.Controllers
         private readonly IUnitOfWork _unitOfWork;
     private readonly IMapper _mapper;
 
-    public ReviewController(IMediator mediator,IUnitOfWork unitOfWork, IMapper mapper)
+    public ReviewController(IMediator mediator)
     {
             _mediator = mediator;
-            _unitOfWork = unitOfWork;
-        _mapper = mapper;
     }
 
     [HttpGet]
